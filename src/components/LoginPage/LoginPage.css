@@ -1,0 +1,144 @@
+.loginpage__main{
+    display: flex;
+    margin: 25px;
+}
+
+.loginpage__logo{
+    width: 175px;
+    
+}
+
+.loginpage__rightcomponent {
+    text-align: center;
+    height: 380px;
+    width: 350px;
+    border: 1px solid #dbdbdb;
+    margin: 25px;
+    
+}
+.loginpage__signin{
+    margin: 25px;
+}
+
+.loginpage__text{
+
+    width: 258px;
+    height: 36px;
+    margin: 5px;
+    border: 1px solid #dbdbdb;
+    background-color: #fafafa;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.loginpage__button{
+
+    width:270px;
+    height: 36px;
+    color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid #5395ff ;
+    background-color: #5395ff;
+   
+}
+.login__ordiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    /* flex-direction: row;
+    margin: 14px 40px 12px; */
+
+}
+.login__divider{
+    width: 80px;
+    height: 0px;
+    margin-top: 10px;
+    border: 1px solid #DBDBDB;
+    /* padding: auto;
+    flex-grow: 1;
+    height: 1px;
+    position: relative;
+    flex-shrink: 1;
+    top: 1px;
+    background-color: rgba(219, 219, 219, 1); */
+}
+
+.login__or{
+
+    /* padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-bottom-width: 0;
+    padding-bottom: 0;
+    text-transform: uppercase;
+    margin-right: 18px;
+    border-left-width: 0;
+    padding-top: 0;
+    flex-direction: column;
+    border-right-width: 0;
+    border-top-width: 0;
+    box-sizing: border-box;
+    display:flex;
+    padding-right: 0;
+    flex-shrink: 0;
+    margin-left: 18px;
+    font-weight: 600;
+    font-weight: 600;
+    font-size: .8125rem;
+    position: relative;
+    line-height: 1.1538;
+    flex-grow: 0;
+    vertical-align: baseline;
+    color: rgba(115,115,115,1); */
+    margin: 0px 10px;
+    font-weight: bold;
+    color: #bebebe; 
+}
+
+.loginpage_fb{
+    color:#395185;
+    font-weight: bold;
+    margin-top: 30px;
+    /* margin-top: 20px;
+    display: flex;
+    flex-direction: row; */
+    
+}
+.loginpage__forget{
+    color: rgba(var(--fe0,0,55,107), 1);
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 12px;
+    text-align: center;
+}
+.loginpage__signupoption{
+    margin: 25px;
+    height: 66px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+}
+.loginpage__signup{
+    margin-top: 20px;
+
+}
+.loginpage__signin{
+    margin-top: 30px;
+}
+.loginpage__downloadSection{
+    height: 105px;
+    width:350px;
+    text-align: center;
+    margin-top: 40px;
+}
+.loginpage__option{
+    margin-top: 40px;
+}
+
+.loginpage__dwing{
+    margin-top:20px; ;
+    margin: 5px;
+}
